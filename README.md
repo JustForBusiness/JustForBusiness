@@ -41,8 +41,7 @@ Check out some of my projects on [GitHub](https://github.com/yourprofile)! 🎨�
 ---
 
 ### ✉️ Get in touch!
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/canbayazit/)
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
