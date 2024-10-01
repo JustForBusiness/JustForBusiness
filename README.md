@@ -36,7 +36,7 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 ---
 
 ### 🎨 Portfolio Sneak Peek:
-Check out some of my projects on [GitHub](https://github.com/yourprofile)! 🎨👨‍💻
+Check out some of my projects on [GitHub](https://github.com/JustForBusiness?tab=repositories)! 🎨👨‍💻
 
 ---
 
