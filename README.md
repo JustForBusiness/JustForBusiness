@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm Can!
 
 Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, dynamic, and visually engaging web applications. Here’s a bit about me and what I love working with:
 
