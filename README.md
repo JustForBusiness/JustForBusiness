@@ -35,13 +35,8 @@ Welcome to my coding universe! 🚀 I'm passionate about crafting interactive, d
 
 ---
 
-### 🎨 Portfolio Sneak Peek:
-Check out some of my projects on [GitHub](https://github.com/JustForBusiness?tab=repositories)! 🎨👨‍💻
-
----
-
 ### ✉️ Get in touch!
-- [LinkedIn](https://www.linkedin.com/in/canbayazit/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/canbayazit/)
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
